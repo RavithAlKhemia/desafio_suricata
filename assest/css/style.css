@@ -3,7 +3,73 @@
     height: 75px;
 }
 
-.productos {
+.nav-link {
+    font-size: 22px;
+}
+
+#productos {
     color: #707070;
     font-size: 35px;
+}
+
+.producto {
+    height: 82px;
+    padding: 23px;
+}
+
+.card-text {
+    width: 217px;
+    text-align: left;
+    font: normal normal normal 16px/24px Open Sans;
+    color: #373A3C;
+}
+
+.list-group {
+    text-align: left;
+    font: normal normal normal 11px/15px Open Sans;
+    letter-spacing: 0px;
+    color: #373A3C;
+}
+
+.card-body {
+    text-align: left;
+    font: normal normal normal 11px/17px Open Sans;
+    letter-spacing: 0px;
+    color: #1C7CD5;
+}
+
+.metodo-pago {
+    height: 170px;
+    background-color: #17A2B8;
+}
+
+.img-pago {
+    width: 80px;
+    height: 53px;
+}
+
+.pago-text {
+    color: white;
+}
+
+.pago {
+    padding: 58px;
+}
+
+.footer {
+    background-color: #E83E8C;
+    height: 130px;
+}
+
+.foot-img {
+    height: 100px;
+}
+
+.foot {
+    padding-top: 30px;
+}
+
+.regreso {
+    text-align: center;
+    background-color: #E83E8C;
 }
