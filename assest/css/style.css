@@ -19,6 +19,14 @@
 
 .card-text {
     width: 217px;
+    height: 80px;
+    text-align: left;
+    font: normal normal normal 16px/24px Open Sans;
+    color: #373A3C;
+}
+
+.card-text2 {
+    width: 217px;
     text-align: left;
     font: normal normal normal 16px/24px Open Sans;
     color: #373A3C;
@@ -31,7 +39,7 @@
     color: #373A3C;
 }
 
-.card-body {
+.card-link {
     text-align: left;
     font: normal normal normal 11px/17px Open Sans;
     letter-spacing: 0px;
